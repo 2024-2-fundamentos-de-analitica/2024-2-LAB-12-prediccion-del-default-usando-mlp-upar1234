@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Isaac/Documents/GitHub/Anal%C3%ADtica%20Predictiva/2024-2-LAB-04-prediccion-del-default-usando-mlp-Ysakkkk/mlruns/0/07738b7476c448fc96bf593d93ef26cb/artifacts
+end_time: 1736552003699
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07738b7476c448fc96bf593d93ef26cb
+run_name: magnificent-bass-761
+run_uuid: 07738b7476c448fc96bf593d93ef26cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736551825241
+status: 3
+tags: []
+user_id: Isaac

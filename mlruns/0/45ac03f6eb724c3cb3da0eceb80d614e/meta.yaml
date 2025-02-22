@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Isaac/Documents/GitHub/Anal%C3%ADtica%20Predictiva/2024-2-LAB-04-prediccion-del-default-usando-mlp-Ysakkkk/mlruns/0/45ac03f6eb724c3cb3da0eceb80d614e/artifacts
+end_time: 1736551421917
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 45ac03f6eb724c3cb3da0eceb80d614e
+run_name: rumbling-fox-301
+run_uuid: 45ac03f6eb724c3cb3da0eceb80d614e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1736551232373
+status: 3
+tags: []
+user_id: Isaac
